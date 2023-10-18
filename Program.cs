@@ -2,4 +2,3 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello from Maktum");
 Console.WriteLine("Hello from Maktum commit 2");
-Console.WriteLine("commit from featureB1 commit1");
